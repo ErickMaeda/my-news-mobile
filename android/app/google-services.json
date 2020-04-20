@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222712526940",
+    "firebase_url": "https://news-dev-a4d08.firebaseio.com",
+    "project_id": "news-dev-a4d08",
+    "storage_bucket": "news-dev-a4d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222712526940:android:a0d79dd7ea3ce6aca50e99",
+        "android_client_info": {
+          "package_name": "br.com.erickmaeda.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222712526940-0dfb5a6pk7p0g6m9vi7brc2jkbhkk34m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.erickmaeda.news",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "222712526940-5uonfmk4bvj55p9n83vnittlop8dea5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2aj0iALNERdAWnL6TbTP18ljaqOYJM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222712526940-5uonfmk4bvj55p9n83vnittlop8dea5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
